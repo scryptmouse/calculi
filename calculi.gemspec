@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["devel@mouse.vc"]
   spec.description   = %q{Calculated functions for metaprogramming.}
   spec.summary       = %q{Calculated functions for metaprogramming.}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/scryptmouse/calculi"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
